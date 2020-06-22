@@ -4,7 +4,7 @@ import {} from "wix-style-react";
 export interface AppProps {}
 
 const App: React.SFC<AppProps> = (): JSX.Element => {
-  return <div>Hello Wolrd</div>;
+  return <div>Hello Wolrd, I am from Heroku</div>;
 };
 
 export default App;
