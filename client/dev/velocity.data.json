@@ -1,9 +1,7 @@
 {
-  "title": "Wix Stack React Example Application",
+  "title": "Milennium Venture Partners",
   "debug": true,
-  "experiments": {
-
-  },
+  "experiments": {},
   "locale": "en",
   "basename": "/",
   "clientTopology": {
