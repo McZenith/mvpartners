@@ -1,12 +1,16 @@
 {
   "name": "cient",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
+  "main": "dist/server.js",
   "author": {
     "name": "Isaiah Awotide",
     "email": "awotideisaiah@yandex.com",
     "url": "https://www.github.com/McZenith"
+  },
+  "engines": {
+    "node": "10.x"
   },
   "scripts": {
     "start": "yoshi start",
