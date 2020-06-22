@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
-  "main": "dist/server.js",
+  "main": "server.js",
   "author": {
     "name": "Isaiah Awotide",
     "email": "awotideisaiah@yandex.com",
