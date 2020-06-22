@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "yoshi start",
-    "build": "yoshi build",
+    "build": "yoshi start",
     "test": "yoshi test",
     "lint": "yoshi lint",
     "posttest": "npm run lint"
