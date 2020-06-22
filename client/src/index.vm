@@ -3,11 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>${title}</title>
-    <link
-      type="image/png"
-      href="https://www.wix.com/favicon.ico"
-      rel="shortcut icon"
-    />
+
     <link
       rel="stylesheet"
       href="${clientTopology.staticsBaseUrl}app#if(!${debug}).min#{end}.css"
