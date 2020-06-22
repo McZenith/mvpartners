@@ -1,11 +1,12 @@
 {
-  "name": "wix-style-react-8",
+  "name": "cient",
   "version": "1.0.0",
   "license": "UNLICENSED",
   "private": true,
   "author": {
-    "name": "mykas",
-    "email": "mykolass@wix.com"
+    "name": "Isaiah Awotide",
+    "email": "awotideisaiah@yandex.com",
+    "url": "https://www.github.com/McZenith"
   },
   "scripts": {
     "start": "yoshi start",
